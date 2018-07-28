@@ -1,0 +1,14 @@
+E:\SmartGit\accdb_export\accdb_export\accdb_export\obj\Debug\accdb_export.csprojAssemblyReference.cache
+E:\SmartGit\accdb_export\accdb_export\accdb_export\obj\Debug\accdb_export.csproj.CoreCompileInputs.cache
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\accdb_export.exe.config
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\accdb_export.exe
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\accdb_export.pdb
+E:\SmartGit\accdb_export\accdb_export\accdb_export\obj\Debug\accdb_export.exe
+E:\SmartGit\accdb_export\accdb_export\accdb_export\obj\Debug\accdb_export.pdb
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\System.IO.Packaging.dll
+E:\SmartGit\accdb_export\accdb_export\accdb_export\obj\Debug\accdb_export.csproj.CopyComplete
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\EPPlus.dll
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\EPPlus.xml
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\Newtonsoft.Json.dll
+E:\SmartGit\accdb_export\accdb_export\accdb_export\bin\Debug\Newtonsoft.Json.xml

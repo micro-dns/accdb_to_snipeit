@@ -1,0 +1,701 @@
+6094, ASIA/PUBLIC-GOPRINT PAYSTATION, PRT-HP-LJ600-M602-CNDCGB016V, HP LASERJET 600 M602 PRINTER
+PRT-HP-LJ600-M602-CNDCGB016V
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 6094
+	Dept/Room Location = ASIA/PUBLIC
+
+6120, ASIA/401, TV-LED-LC60SQ15U-403832634, SHARP-AQUOSQ+ SERIES 60" LED 1080P 240HZ SMART 3D HDTV
+TV-LED-LC60SQ15U-403832634
+	Category = Display - TV
+	Model Name = 
+	Manufacturer = Sharp
+	Asset Tag = 6120
+	Dept/Room Location = ASIA/401
+
+6121, ASIA/401, MD199LL/A-DY3MQYKNFF54, APPLE TV FOR SHARP AQUOS 60" TV FOR ASIA 401
+MD199LL/A-DY3MQYKNFF54
+	Category = Display - TV
+	Model Name = 
+	Manufacturer = Sharp
+	Asset Tag = 6121
+	Dept/Room Location = ASIA/401
+
+6122, ASIA/401, 960-000921, LOGITECH WEBCAM FOR SHARP AQUOS TV IN ASIA 401
+960-000921
+	Category = Display - TV
+	Model Name = 
+	Manufacturer = Sharp
+	Asset Tag = 6122
+	Dept/Room Location = ASIA/401
+
+6123, ASIA/401, CAMERA-WEBCAM, LOGITECH USB WEBCAM FOR SHARP AQUOS TV IN ASIA 401
+CAMERA-WEBCAM
+	Category = Peripheral - Barcode Reader
+	Model Name = 
+	Manufacturer = Sharp
+	Asset Tag = 6123
+	Dept/Room Location = ASIA/401
+
+2238, ASIA/408-ASIA03, HUB-NETGEAR-ENT6B02049493, NETGEAR EN106TP 6-PORT 10BASE-T HUB
+HUB-NETGEAR-ENT6B02049493
+	Category = 
+	Model Name = 
+	Manufacturer = Netgear
+	Asset Tag = 2238
+	Dept/Room Location = ASIA/408
+
+2766, ASIA/ASIA_REF, PRT-HP-LJ1100-USPJ015121, HP LASERJET 1100
+PRT-HP-LJ1100-USPJ015121
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 2766
+	Dept/Room Location = ASIA/ASIA_REF
+
+3122, ASIA/403-TOKIKO, HUB-NETGEAR-ENT4B15535849, NETGEAR EN108TP 4-PORT HUB 4A
+HUB-NETGEAR-ENT4B15535849
+	Category = 
+	Model Name = 
+	Manufacturer = Netgear
+	Asset Tag = 3122
+	Dept/Room Location = ASIA/403
+
+3441, ASIA/PUBLIC-AP, SWITCH-WIRELESS-AP-02UT35250714, ORINOCO AP 500 (WIRELESS MAC: 00022D66573C)
+SWITCH-WIRELESS-AP-02UT35250714
+	Category = Networking - Switch - ???
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 3441
+	Dept/Room Location = ASIA/PUBLIC
+
+3879, ASIA/310-RUSSIAN01, , DELL 17 INCH E173FP FLAT PANEL DISPLAY
+	Category = 
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 3879
+	Dept/Room Location = ASIA/310
+
+4379, ASIA/408-ASIA03, BC-SCANPLUS 1800SR-0168399, INTERMEC SCANPLUS 1800 SR SCANNER
+BC-SCANPLUS 1800SR-0168399
+	Category = Peripheral - Barcode Reader
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 4379
+	Dept/Room Location = ASIA/408
+
+4415, ASIA/405-ASIA07-TOKIKO, SCAN-EPSON-4990PRO-GEAW008874, EPSON PERFECTION 4990 PRO FLATBED SCANNER FOR ASIA STATLER COLLECTION
+SCAN-EPSON-4990PRO-GEAW008874
+	Category = Scanner - ???
+	Model Name = 
+	Manufacturer = Epson
+	Asset Tag = 4415
+	Dept/Room Location = ASIA/405
+
+4435, ASIA/404-ASIA08, , DELL 17 INCH E176FP FLAT PANEL DISPLAY
+	Category = 
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4435
+	Dept/Room Location = ASIA/404
+
+5221, ASIA/404E-ASIA03-STUDENT, PC-CORE2DUO 3.0GHZ-VOSTRO-1CT3CK1, (STAFF) DELL VOSTRO 220 INTEL CORE 2 DUO 3.0GHZ 1GB RAM 160GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Vostro ???
+	Manufacturer = Dell
+	Asset Tag = 5221
+	Dept/Room Location = ASIA/404E
+
+5233, ASIA/PUBLIC-ASIA_STATION1-KOREAN PC, , ACER COMPUTER 19 INCH WIDESCREEN X193WB  FLAT PANEL DISPLAY
+	Category = Display - Monitor
+	Model Name = 
+	Manufacturer = Acer
+	Asset Tag = 5233
+	Dept/Room Location = ASIA/PUBLIC
+
+5234, ASIA/PUBLIC-ASIA_STATION2-CHINESE PC, , ACER COMPUTER 19 INCH WIDESCREEN X193WB  FLAT PANEL DISPLAY
+	Category = Display - Monitor
+	Model Name = 
+	Manufacturer = Acer
+	Asset Tag = 5234
+	Dept/Room Location = ASIA/PUBLIC
+
+5237, ASIA/PUBLIC-ASIA_STATION3-JAPANESE PC, , ACER COMPUTER 19 INCH WIDESCREEN X193WB  FLAT PANEL DISPLAY
+	Category = Display - Monitor
+	Model Name = 
+	Manufacturer = Acer
+	Asset Tag = 5237
+	Dept/Room Location = ASIA/PUBLIC
+
+4519, ASIA/409-ASIA11, , DELL 17 INCH  E177FP LCD FLAT PANEL DISPLAY, ANALOG
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4519
+	Dept/Room Location = ASIA/409
+
+4548, ASIA/406-MONICAG, PRT-HP-LJ1320TN-CNRC6941D1, HP LASERJET 1320DN
+PRT-HP-LJ1320TN-CNRC6941D1
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 4548
+	Dept/Room Location = ASIA/406
+
+4723, ASIA/410-DNI, , DELL 19 INCH  E198WFP WIDESCREEN FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4723
+	Dept/Room Location = ASIA/410
+
+4724, ASIA/410-DNI, , DELL 19 INCH  E198WFP WIDESCREEN FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4724
+	Dept/Room Location = ASIA/410
+
+4733, ASIA/310-RUSSIAN01, PC-CORE2DUO 2.66GHZ-OPTIPLEX 755-CMDDZF1, (STAFF) DELL OPTIPLEX 755, CORE 2 DUO 2.66GHZ, 160GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4733
+	Dept/Room Location = ASIA/310
+
+4742, ASIA/404-ASIA02, PC-CORE2DUO 2.66GHZ-OPTIPLEX 755-GPDDZF1, (STAFF) DELL OPTIPLEX 755, CORE 2 DUO 2.66GHZ, 160GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4742
+	Dept/Room Location = ASIA/404
+
+4743, ASIA/404A-ASIA10, PC-CORE2DUO 2.66GHZ-OPTIPLEX 755-3NDDZF1, (STAFF) DELL OPTIPLEX 755, CORE 2 DUO 2.66GHZ, 160GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4743
+	Dept/Room Location = ASIA/404A
+
+4745, ASIA/404D-ASIA01, PC-CORE2DUO 2.66GHZ-OPTIPLEX 755-JMDDZF1, (STAFF) DELL OPTIPLEX 755, CORE 2 DUO 2.66GHZ, 160GB HDD; NEW RAM PO#P445404, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4745
+	Dept/Room Location = ASIA/404D
+
+4758, ASIA/329, MAC-IMAC-CORE2DUO-2.0GHZ-W8810406X85, (STAFF) IMAC INTEL CORE2DUO 2.0GHZ, 1GB, 250GB, SUPERDRIVE, APP-534027082087752
+MAC-IMAC-CORE2DUO-2.0GHZ-W8810406X85
+	Category = Computer - Desktop
+	Model Name = 
+	Manufacturer = Apple
+	Asset Tag = 4758
+	Dept/Room Location = ASIA/329
+
+4769, ASIA/PUBLIC-GOPRINT PAYSTATION, DANYL-CARDREADER-12829, IF MOVING/REPLACING, NOTIFY FAITH 1ST
+DANYL-CARDREADER-12829
+	Category = 
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 4769
+	Dept/Room Location = ASIA/PUBLIC
+
+4808, ASIA/305-RUSSIAN_BIB305-POLANSKY, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4808
+	Dept/Room Location = ASIA/305
+
+4810, ASIA/404-ASIA02, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4810
+	Dept/Room Location = ASIA/404
+
+4827, ASIA/408, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4827
+	Dept/Room Location = ASIA/408
+
+4837, ASIA/ASIA_REF, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4837
+	Dept/Room Location = ASIA/ASIA_REF
+
+4845, ASIA/404C-ASIA09-CHINESE, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4845
+	Dept/Room Location = ASIA/404C
+
+4862, ASIA/408-ASIA03, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4862
+	Dept/Room Location = ASIA/408
+
+4865, ASIA/413-MCLARIZA, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4865
+	Dept/Room Location = ASIA/413
+
+4874, ASIA/404B-ASIA05-KOREAN SUPPORT, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4874
+	Dept/Room Location = ASIA/404B
+
+4880, ASIA/404A-ASIA10, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4880
+	Dept/Room Location = ASIA/404A
+
+4921, ASIA/PUBLIC-GOPRINT PAYSTATION, PC-DUALCORE-2.20GHZ-OPTIPLEX 360-1R54RH1, (PUBLIC) DELL OPTIPLEX 360, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4921
+	Dept/Room Location = ASIA/PUBLIC
+
+4927, ASIA/PUBLIC-GOPRINT PAYSTATION, , DELL 17 INCH E178FP  FLAT PANEL
+	Category = 
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4927
+	Dept/Room Location = ASIA/PUBLIC
+
+4944, ASIA/404C-ASIA09-CHINESE, PC-CORE2DUO 3.0GHZ-OPTIPLEX 960-G2KGWH1, (STAFF) DELL OPTIPLEX 960 MT, INTEL CORE 2 DUO, 3.0GHZ, 4GB DDR2, 320GB HDD, WIN7, SECONDARY MAC: 0010183A81C3
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4944
+	Dept/Room Location = ASIA/404C
+
+4947, ASIA/408-ASIA03, BC-SYMBOL-LS-2208-Y4DM1T, SYMBOL LS 2208 SCANNER, MULTIPLE INTERFACE SCANNER
+BC-SYMBOL-LS-2208-Y4DM1T
+	Category = Peripheral - Barcode Reader
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 4947
+	Dept/Room Location = ASIA/408
+
+4969, ASIA/PUBLIC-ASIA_STATION4, , DELL 19 INCH E198FP FLAT PANEL DISPLAY
+	Category = 
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4969
+	Dept/Room Location = ASIA/PUBLIC
+
+4977, ASIA/PUBLIC-ASIA_STATION5-LOGIN REQ, PC-INTELCORE-3GHZ-OPTIPLEX 755-7JT8ZH1, (PUBLIC) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4977
+	Dept/Room Location = ASIA/PUBLIC
+
+4978, ASIA/PUBLIC-ASIA_STATION7-LOGIN REQ, PC-INTELCORE-3GHZ-OPTIPLEX 755-6J19ZH1, (PUBLIC) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4978
+	Dept/Room Location = ASIA/PUBLIC
+
+4980, ASIA/405-ASIA07-TOKIKO, PC-INTELCORE-3GHZ-OPTIPLEX 755-8MG9ZH1, (PUBLIC) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4980
+	Dept/Room Location = ASIA/405
+
+4984, ASIA/404-ASIA08, PC-INTELCORE-3GHZ-OPTIPLEX 755-CMG9ZH1, DELL OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4984
+	Dept/Room Location = ASIA/404
+
+4987, ASIA/PUBLIC-ASIA_STATION6-LOGIN REQ, PC-INTELCORE-3GHZ-OPTIPLEX 755-3JT8ZH1, (PUBLIC) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4987
+	Dept/Room Location = ASIA/PUBLIC
+
+5000, ASIA/PUBLIC-ASIA_STATION2-CHINESE PC, PC-INTELCORE-3GHZ-OPTIPLEX 755-3MG9ZH1, (PUBLIC) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5000
+	Dept/Room Location = ASIA/PUBLIC
+
+5010, ASIA/ASIA-ASIA_PUBADA, PC-INTELCORE-3GHZ-OPTIPLEX 755-GJT8ZH1, (PUBLIC) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5010
+	Dept/Room Location = ASIA/ASIA
+
+5018, ASIA/305-RUSSIAN_BIB, PC-INTELCORE-3GHZ-OPTIPLEX 755-HJT8ZH1, (STAFF) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5018
+	Dept/Room Location = ASIA/305
+
+5020, ASIA/PUBLIC-ASIA_STATION4-LOGIN REQ, PC-INTELCORE-3GHZ-OPTIPLEX 755-HNL8ZH1, (PUBLIC) DELL  OPTIPLEX 755MT INTEL CORE 3.0GHZ 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5020
+	Dept/Room Location = ASIA/PUBLIC
+
+5036, ASIA/PUBLIC-ASIA_STATION5, , DELL 19 INCH FLAT SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5036
+	Dept/Room Location = ASIA/PUBLIC
+
+5045, ASIA/PUBLIC-ASIA_STATION9-CHINESE DATABASE, , DELL 19 INCH FLAT SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5045
+	Dept/Room Location = ASIA/PUBLIC
+
+5048, ASIA/405, , DELL 19 INCH FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5048
+	Dept/Room Location = ASIA/405
+
+5056, ASIA/ASIA-ASIA_PUBADA, , DELL 19 INCH FLAT SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5056
+	Dept/Room Location = ASIA/ASIA
+
+5065, ASIA/PUBLIC-ASIA_STATION7, , DELL 19 INCH FLAT SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5065
+	Dept/Room Location = ASIA/PUBLIC
+
+5066, ASIA/PUBLIC-ASIA_STATION6, , DELL 19 INCH FLAT SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5066
+	Dept/Room Location = ASIA/PUBLIC
+
+5076, ASIA/ASIA_REF, PC-INTELCORE-3GHZ-OPTIPLEX 755-6W524J1, (PUBLIC) DELL OPTIPLEX 755 3GHZ CORE 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5076
+	Dept/Room Location = ASIA/ASIA_REF
+
+5080, ASIA/404B-ASIA05-KOREAN SUPPORT, PC-INTELCORE-3GHZ-OPTIPLEX 755-FW524J1, (STAFF) DELL OPTIPLEX 755 3GHZ CORE 2 DUO, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5080
+	Dept/Room Location = ASIA/404B
+
+5110, ASIA/408-ASIA LAPTOP ?, PC-LAPTOP-INSPIRON-I525-CORE-2GHZ-FP2NYG1, (STAFF) ASIA LAPTOP, DELL INSPIRON 1525 INTEL CORE 2.0GHZ, 2GB RAM, WIRELESS MAC: 00242BB14B4A, WIN7
+	Category = Computer - Laptop
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5110
+	Dept/Room Location = ASIA/408
+
+5141, ASIA/310-RUSSIAN01, , DELL 17 INCH  ULTRA SHARP 1708FP LCD
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5141
+	Dept/Room Location = ASIA/310
+
+5142, ASIA/PUBLIC-ASIA_STATION8, , DELL 17 INCH  ULTRA SHARP 1708FP LCD
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5142
+	Dept/Room Location = ASIA/PUBLIC
+
+5153, ASIA/408-ASIA_LAPTOP1, , DELL 17 INCH  ULTRA SHARP 1708FP LCD
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5153
+	Dept/Room Location = ASIA/408
+
+5285, ASIA/409-ASIA11, PC-CORE2DUO 3.16GHZ-OPTIPLEX 760-D7Z6RL1, (STAFF) DELL OPTIPLEX 760 INTEL CORE 2 DUO 3.16GHZ, 320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5285
+	Dept/Room Location = ASIA/409
+
+5294, ASIA/PUBLIC-ASIA_STATION1-KOREAN PC, PC-CORE2DUO-2.93GHZ-OPTIPLEX 760-DBB2RL1, (PUBLIC) DELL OPTIPLEX 760 INTEL CORE 2 DUO 2.93GHZ 4GB RAM 250GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5294
+	Dept/Room Location = ASIA/PUBLIC
+
+5297, ASIA/PUBLIC-ASIA_STATION9-CHINESE DATABASE, PC-CORE2DUO-2.93GHZ-OPTIPLEX 760-DB70RL1, (PUBLIC) DELL OPTIPLEX 760 INTEL CORE 2 DUO 2.93GHZ 4GB RAM 250GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5297
+	Dept/Room Location = ASIA/PUBLIC
+
+5302, ASIA/408-ASIA04-JAPANESE, PC-CORE2DUO 2.93GHZ-OPTIPLEX 760-DB82RL1, DELL OPTIPLEX 760 INTEL CORE 2 DUO 2.93GHZ 4GB RAM 250GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5302
+	Dept/Room Location = ASIA/408
+
+5392, ASIA/412-ROHAYATI, , DELL 18.5-INCH E1910H LCD WIDESCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5392
+	Dept/Room Location = ASIA/412
+
+5434, ASIA/407-ETSUKO, BC-MS9520-2R10421719, MS9520 VOYAGER BLK HH SCANNER
+BC-MS9520-2R10421719
+	Category = Peripheral - Barcode Reader
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 5434
+	Dept/Room Location = ASIA/407
+
+5437, ASIA/310-POLANSKY, PRT-HP-LJ1606DN-VNB3G32428, HP LASERJET P1606DN
+PRT-HP-LJ1606DN-VNB3G32428
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5437
+	Dept/Room Location = ASIA/310
+
+5462, ASIA/TOKIKO, PC-LAPTOP-CORE-I3-2.4GHZ-VOSTRO 3500-8YBRXM1, DELL VOSTRO 3500 LAPTOP, WIRELESS:1C659D9F6BF6, WIN7
+	Category = Computer - Laptop
+	Model Name = Dell Vostro ???
+	Manufacturer = Dell
+	Asset Tag = 5462
+	Dept/Room Location = ASIA/TOKIKO
+
+5474, ASIA/TOKIKO, PC-LAPTOP-CORE-I3-2.4GHZ-VOSTRO 3500-GYBRXM1, DELL VOSTRO 3500 LAPTOP, WIRELESS:1C659D9F6DE1, WIN7
+	Category = Computer - Laptop
+	Model Name = Dell Vostro ???
+	Manufacturer = Dell
+	Asset Tag = 5474
+	Dept/Room Location = ASIA/TOKIKO
+
+5673, ASIA/414-YOONLIM, PC-CORE I5 3.1GHZ-OPTIPLEX 990-H4J3YR1, (STAFF) DELL OPTIPLEX 990 COREI5 3.1GHZ 4GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5673
+	Dept/Room Location = ASIA/414
+
+5681, ASIA/406-TOKIKO, PC-CORE I5 3.1GHZ-OPTIPLEX 990-H4L0YR1, (STAFF) DELL OPTIPLEX 990 COREI5 3.1GHZ 4GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5681
+	Dept/Room Location = ASIA/406
+
+5716, ASIA/414-YOONLIM, , DELL 21.5 INCH P2212 LCD MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5716
+	Dept/Room Location = ASIA/414
+
+5717, ASIA/406-TOKIKO, , DELL 21.5 INCH P2212 LCD MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5717
+	Dept/Room Location = ASIA/406
+
+5758, ASIA/407-ETSUKO, PC-CORE I5 3.2GHZ-OPTIPLEX 3010-JR00SW1, (STAFF) DELL OPTIPLEX 3010  COREI5 3.2GHZ 8GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5758
+	Dept/Room Location = ASIA/407
+
+5784, ASIA/407-ETSUKO, , DELL PROFESSIONAL 23 INCH P2312H WIDE SCREEN LCD MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5784
+	Dept/Room Location = ASIA/407
+
+5803, ASIA/404D-ASIA01, , DELL 20 INCH E2013H WIDE SCREEN VIS MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5803
+	Dept/Room Location = ASIA/404D
+
+5848, ASIA/401, PC-LAPTOP-CORE-I5-2.4GHZ-JQT44X1, DELL LATITUDE E5530 15.6-INCH COREI3 2.6GHZ, 4GB RAM, 320GB HDD, WIRELESS MAC: 1C3E84C68C39
+	Category = Computer - Laptop
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5848
+	Dept/Room Location = ASIA/401
+
+5854, ASIA/411-MONICAG, PC-CORE I3 2.4GHZ-OPTIPLEX 3010-HFKQDX1, (STAFF) DELL OPTIPLEX 3010  COREI5 3.2GHZ 8GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5854
+	Dept/Room Location = ASIA/411
+
+5874, ASIA/411-MONICAG, , DELL P2312H 23 INCH WIDESCREEN FLAT PANEL DISPLAY
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5874
+	Dept/Room Location = ASIA/411
+
+5922, ASIA/309-POLANSKY, PC-CORE I5 3.20GHZ-OPTIPLEX 3010-4QWHHX1, (STAFF) DELL OPTIPLEX 3010 CORE -I5-3470 3.20GHZ, 8GB RAM, 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5922
+	Dept/Room Location = ASIA/309
+
+5930, ASIA/309-POLANSKY, , DELL PROFESSIONAL P2312H 23 INCH WIDESCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5930
+	Dept/Room Location = ASIA/309
+
+5956, ASIA/404-ASIA WORKROOM, PRT-HP-CLJ-5225DN-CNGCF3C0VT, HP COLOR LASERJET 5225DN
+PRT-HP-CLJ-5225DN-CNGCF3C0VT
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5956
+	Dept/Room Location = ASIA/404
+
+6052, ASIA/PUBLIC-ASIA_STATION3-JAPANESE PC, PC-CORE2DUO-3GHZ-OPTIPLEX 755-HRBNGG1, (PUBLIC) DELL OPTIPLEX 755, CORE 2 DUO 3GHZ, 80GB HDD, WIN7  - TRANSFERRED FROM ITS
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 6052
+	Dept/Room Location = ASIA/PUBLIC
+
+6248, ASIA/402-SACHIKO, PC-CORE-I5-6500-OPTIPLEX 7040-544JQD2, STAFF-PC-CORE-I5-6500-OPTIPLEX 7040
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 6248
+	Dept/Room Location = ASIA/402
+
+6249, ASIA/402-SACHIKO, , 
+	Category = 
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 6249
+	Dept/Room Location = ASIA/402
+
+6154, ASIA/410-DNI, PC-CORE I5 3.3GHZ-OPTIPLEX 9020-283XB62, (STAFF) DELL OPTIPLEX 9020 CORE I5-4590 3.3GHZ, 8GB RAM, 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 6154
+	Dept/Room Location = ASIA/410
+
+6161, ASIA/413/STUDENT, PC-CORE I5 3.3GHZ-OPTIPLEX 9020-2QPWP52, (STAFF) DELL OPTIPLEX 9020 CORE I5-4590 3.3GHZ, 8GB RAM, 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 6161
+	Dept/Room Location = ASIA/413/STUDENT
+
+6170, ASIA/412-ROHAYATI, PC-CORE I5 3.3GHZ-OPTIPLEX 9020-1SV0Q52, (STAFF) DELL OPTIPLEX 9020 CORE I5-4590 3.3GHZ, 8GB RAM, 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 6170
+	Dept/Room Location = ASIA/412
+
+6250, ASIA/402-SACHIKO, , 
+	Category = 
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 6250
+	Dept/Room Location = ASIA/402
+
+6286, ASIA/402-SACHIKO, PRT-HP-CLJ-MFP-M477FDN-VNB8J9QDFK, 
+PRT-HP-CLJ-MFP-M477FDN-VNB8J9QDFK
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 6286
+	Dept/Room Location = ASIA/402
+
+6287, ASIA/405, SCAN-EPSON-DS-50000-PVZZ002047, 
+SCAN-EPSON-DS-50000-PVZZ002047
+	Category = Scanner - ???
+	Model Name = 
+	Manufacturer = Epson
+	Asset Tag = 6287
+	Dept/Room Location = ASIA/405
+
+6291, ASIA/404-ASIA WORKROOM, PRT-HP-LJ-M506-PHBGR26563, HP LASERJET M506
+PRT-HP-LJ-M506-PHBGR26563
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 6291
+	Dept/Room Location = ASIA/404
+
+6292, ASIA/408-ASIA03, PRT-HP-LJ-M506-PHBGR26548, HP LASERJET M506
+PRT-HP-LJ-M506-PHBGR26548
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 6292
+	Dept/Room Location = ASIA/408
+
+6319, ASIA/413/MCLARIZA, IMAC-C02SV476GG77, IMAC 21 INCH MK442LL/A 2.8GHZ/8GB/1TB
+IMAC-C02SV476GG77
+	Category = Computer - Desktop
+	Model Name = 
+	Manufacturer = Apple
+	Asset Tag = 6319
+	Dept/Room Location = ASIA/413/MCLARIZA
+
+Exporting...
+2018-07-05_10-20-45.xlsx saved.
+SOURCE=Z:\Backup\Database\Access\UH Library Inventory.accdb
+LOCATION LIKE "asia", PRODUCT_NUM LIKE "-1"
+96 record(s) found.
+Opening file...

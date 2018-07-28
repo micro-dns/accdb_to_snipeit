@@ -1,0 +1,360 @@
+6105, ADMIN/112C-MONICAG, PC-CORE I5 3.3GHZ-OPTIPLEX 7020-C6NND22, (STAFF) DELL OPTIPLEX 7020 CORE I5 3.3GHZ 8GB RAM 500 HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 6105
+	Dept/Room Location = ADMIN/112C
+
+6106, ADMIN/112C-MONICAG, , DELL 24 INCH P2414H WIDESCREEN FLATPANEL
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 6106
+	Dept/Room Location = ADMIN/112C
+
+6117, ADMIN/112-AYANAGI, SCAN-FUJITSU-IX500-A0VB383589, FUJITSU SCAN SNAP IX500 SCANNER
+SCAN-FUJITSU-IX500-A0VB383589
+	Category = Scanner - ???
+	Model Name = Fujitsu Scan Snap ???
+	Manufacturer = Fujitsu
+	Asset Tag = 6117
+	Dept/Room Location = ADMIN/112
+
+6119, ADMIN/112H-FAITHT, SCAN-FUJITSU-IX500-A0VB053655, FUJITSU SCAN SNAP IX500 SCANNER
+SCAN-FUJITSU-IX500-A0VB053655
+	Category = Scanner - ???
+	Model Name = Fujitsu Scan Snap ???
+	Manufacturer = Fujitsu
+	Asset Tag = 6119
+	Dept/Room Location = ADMIN/112H
+
+2037, ADMIN/112G-KINGT, BP-FLOPPY-004641, 3.5 USB EXTERNAL FLOPPY DRIVE
+BP-FLOPPY-004641
+	Category = 
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 2037
+	Dept/Room Location = ADMIN/112G
+
+2044, ADMIN/112G-KINGT, HUB-USB-BELKIN-F5U021-UTK00323261, BELKIN 4 PORT USB HUB
+HUB-USB-BELKIN-F5U021-UTK00323261
+	Category = 
+	Model Name = 
+	Manufacturer = Belkin
+	Asset Tag = 2044
+	Dept/Room Location = ADMIN/112G
+
+3664, (ARIEL) KAUAICC-LRC/ADMIN/4455-KU, PC-PENT4-2.4GHZ-DELL-4FRNP31, DELL DIMENSION 4600 (ARIEL)
+	Category = Computer - Desktop
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 3664
+	Dept/Room Location = (ARIEL) KAUAICC
+
+3680, ADMIN/112-DMIYAZON, PRT-HP-LJ1300-CNCB675401, HP LASERJET 1300
+PRT-HP-LJ1300-CNCB675401
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 3680
+	Dept/Room Location = ADMIN/112
+
+3778, ADMIN/112A, UPS-APC-1000VA-JB0430016777, APC BACK-UPS XS 1000
+UPS-APC-1000VA-JB0430016777
+	Category = Computer - Desktop
+	Model Name = 
+	Manufacturer = APC by Schneider Electric
+	Asset Tag = 3778
+	Dept/Room Location = ADMIN/112A
+
+6393, ADMIN/ADMIN-CONFERENCE, PC-LAPTOP-DELL-INSPIRON-15-JYVSQJ2, DELL INSPIRON 15, 2TB HDD, WIN10 HOME
+	Category = Computer - Laptop
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 6393
+	Dept/Room Location = ADMIN/ADMIN
+
+4589, ADMIN/112-DMIYAZON, CAM-FUJI-FINEPIX-F31FD-6DA04143, (STAFF) FOR ADMIN USE, FUJI FINEPIX F31FD CAMERA WITH SOFT CASE AND 256 XD MEMORY CARD
+CAM-FUJI-FINEPIX-F31FD-6DA04143
+	Category = 
+	Model Name = 
+	Manufacturer = Fujitsu
+	Asset Tag = 4589
+	Dept/Room Location = ADMIN/112
+
+4685, ADMIN/329-MARKROEL, , DELL 19 INCH E198FPW  WIDE SCREEN LCD
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4685
+	Dept/Room Location = ADMIN/329
+
+4705, ADMIN/112, SWITCH-NETGEAR-1D517C3N01F57, NETGEAR 5 PORT 10/100 SWITCH
+SWITCH-NETGEAR-1D517C3N01F57
+	Category = Networking - Switch - ???
+	Model Name = 
+	Manufacturer = Netgear
+	Asset Tag = 4705
+	Dept/Room Location = ADMIN/112
+
+4722, ADMIN/LOBBY_FRONT_DOOR-HL_GUARD, , DELL 19 INCH  E198WFP WIDESCREEN FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4722
+	Dept/Room Location = ADMIN/LOBBY_FRONT_DOOR
+
+4757, ADMIN/329-JOEYB, MAC-IMAC-CORE2DUO-2.0GHZ-W88105H0X85, (STAFF) IMAC INTEL CORE2DUO 2.0GHZ, 1GB, 250GB, SUPERDRIVE, APP-534027082087673
+MAC-IMAC-CORE2DUO-2.0GHZ-W88105H0X85
+	Category = Computer - Desktop
+	Model Name = 
+	Manufacturer = Apple
+	Asset Tag = 4757
+	Dept/Room Location = ADMIN/329
+
+4779, ADMIN/329-MARKROEL, PC-CORE2DUO 2.83GHZ-OPTIPLEX 755L-BZFVQG1, (STAFF) DELL OPTIPLEX 755 2.83GHZ; WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 4779
+	Dept/Room Location = ADMIN/329
+
+4798, ADMIN/116-STEVEP, , DELL 22 INCH E228WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4798
+	Dept/Room Location = ADMIN/116
+
+5044, ADMIN/112-AYANAGI-06/15/12, , DELL 19 INCH FLAT SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5044
+	Dept/Room Location = ADMIN/112
+
+5147, ADMIN/112J-LNAGOSHI, , DELL 17 INCH  ULTRA SHARP 1708FP LCD
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5147
+	Dept/Room Location = ADMIN/112J
+
+5151, ADMIN/112J-LNAGOSHI, , DELL 17 INCH  ULTRA SHARP 1708FP LCD
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5151
+	Dept/Room Location = ADMIN/112J
+
+5292, ADMIN/LOBBY_FRONT_DOOR-HL_GUARD, PC-CORE2DUO-2.93GHZ-OPTIPLEX 760-DB24RL1, (PUBLIC) DELL OPTIPLEX 760 INTEL CORE 2 DUO 2.93GHZ 4GB RAM 250GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5292
+	Dept/Room Location = ADMIN/LOBBY_FRONT_DOOR
+
+5299, ADMIN/116-STEVEP, PC-CORE2DUO 2.93GHZ-OPTIPLEX 760-DB13RL1, (STAFF) DELL OPTIPLEX 760 INTEL CORE 2 DUO 2.93GHZ 4GB RAM 250GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5299
+	Dept/Room Location = ADMIN/116
+
+5301, ADMIN/112-ADMIN1, PC-CORE2DUO 2.93GHZ-OPTIPLEX 760-DB63RL1, (STAFF) DELL OPTIPLEX 760 INTEL CORE 2 DUO 2.93GHZ 4GB RAM 250GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5301
+	Dept/Room Location = ADMIN/112
+
+5312, ADMIN/329-TKO(TERRENCE O.), PC-CORE2DUO 2.93GHZ--OPTIPLEX 760-DB90RL1, (PUBLIC) DELL OPTIPLEX 760 INTEL CORE 2 DUO 2.93GHZ 4GB RAM 250GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5312
+	Dept/Room Location = ADMIN/329
+
+5328, ADMIN/112, PRT-HP-CLJ-CP4025-JPBCB5T1B8, HP  COLOR LASERJET CP4025
+PRT-HP-CLJ-CP4025-JPBCB5T1B8
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5328
+	Dept/Room Location = ADMIN/112
+
+5344, ADMIN/112K-SYEH, PC-CORE-I7-XEON-PRECISION T3500-1VM5KN1, (STAFF) DELL PRECISION T3500-COREI7-2.80GHZ-6GB RAM-320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5344
+	Dept/Room Location = ADMIN/112K
+
+5386, ADMIN/112H-FAITHT, , DELL 18.5-INCH E1910H LCD WIDESCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5386
+	Dept/Room Location = ADMIN/112H
+
+5396, ADMIN/112-ADMIN1, , DELL 18.5-INCH E1910H LCD WIDESCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5396
+	Dept/Room Location = ADMIN/112
+
+5494, ADMIN/112G-KINGT, PRT-HP-LJ1606DN-VNB3L16836, HP LASERJET P1606DN
+PRT-HP-LJ1606DN-VNB3L16836
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5494
+	Dept/Room Location = ADMIN/112G
+
+5495, ADMIN/112C-MONICAG, PRT-HP-LJ1606DN-VNB3L16833, HP LASERJET P1606DN PRINTER
+PRT-HP-LJ1606DN-VNB3L16833
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5495
+	Dept/Room Location = ADMIN/112C
+
+5575, ADMIN/112-FISCAL, PRT-XEROX-WORKCENTRE-3210-UAG556658, XEROX WORKCENTRE 3210 MONOCHROME ALL-IN-ONE PRINTER, COPIER, SCANNER, FAX
+PRT-XEROX-WORKCENTRE-3210-UAG556658
+	Category = Printer - LaserJet - ???
+	Model Name = Xerox WorkCentre ???
+	Manufacturer = Xerox
+	Asset Tag = 5575
+	Dept/Room Location = ADMIN/112
+
+5579, ADMIN/112-AYANAGI-06/15/12, PRT-HP-LJ1606DN-VNB3L40384, HP LASERJET P1606DN PRINTER
+PRT-HP-LJ1606DN-VNB3L40384
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5579
+	Dept/Room Location = ADMIN/112
+
+5621, ADMIN/116-STEVEP, PRT-HP-LJ1606DN-VNB3M00595, HP LASERJET PRO 1606DN
+PRT-HP-LJ1606DN-VNB3M00595
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5621
+	Dept/Room Location = ADMIN/116
+
+5629, ADMIN/112-DMIYAZON, PC-CORE I5 3.1GHZ-OPTIPLEX 990-BDR0WR1, (STAFF) DELL OPTIPLEX 990 CORE-I5 3.10 GHZ 4GB RAM 320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5629
+	Dept/Room Location = ADMIN/112
+
+5631, ADMIN/112G-KINGT, PC-CORE I5 3.1GHZ-OPTIPLEX 990-BDQXVR1, (STAFF) DELL OPTIPLEX 990 CORE-I5 3.10 GHZ 4GB RAM 320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5631
+	Dept/Room Location = ADMIN/112G
+
+5647, ADMIN/112G-KINGT, , DELL 22 INCH P2211H LCD WIDE SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5647
+	Dept/Room Location = ADMIN/112G
+
+5648, ADMIN/112-DMIYAZON, , DELL 22 INCH P2211H LCD WIDE SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5648
+	Dept/Room Location = ADMIN/112
+
+5651, ADMIN/112H-FAITHT, , DELL 22 INCH P2211H LCD WIDE SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5651
+	Dept/Room Location = ADMIN/112H
+
+5669, ADMIN/112J-LNAGOSHI, PC-CORE I5 3.1GHZ-OPTIPLEX 990-H4K1YR1, (STAFF) DELL OPTIPLEX 990 COREI5 3.1GHZ 4GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5669
+	Dept/Room Location = ADMIN/112J
+
+5677, ADMIN/112H-FAITHT, PC-CORE I5 3.1GHZ-OPTIPLEX 990-87GK1R1, (STAFF) DELL OPTIPLEX 990 COREI5 3.1GHZ 4GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5677
+	Dept/Room Location = ADMIN/112H
+
+5678, ADMIN/116-STEVEP, PC-CORE I5 3.1GHZ-OPTIPLEX 990-87GN1R1, (STAFF) DELL OPTIPLEX 990 COREI5 3.1GHZ 4GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5678
+	Dept/Room Location = ADMIN/116
+
+5684, ADMIN/112-AYANAGI, PC-CORE I5 3.1GHZ-OPTIPLEX 990-2S3FWR1, (STAFF) DELL OPTIPLEX 990 COREI5 3.1GHZ 4GB RAM 500GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex ???
+	Manufacturer = Dell
+	Asset Tag = 5684
+	Dept/Room Location = ADMIN/112
+
+5689, ADMIN/112A, PRT-HP-LJ1606DN-VNB3D76453, HP LASERJET P1606DN
+PRT-HP-LJ1606DN-VNB3D76453
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5689
+	Dept/Room Location = ADMIN/112A
+
+5712, ADMIN/116-STEVEP, , DELL 21.5 INCH P2212 LCD MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5712
+	Dept/Room Location = ADMIN/116
+
+5715, ADMIN/112-AYANAGI-06/15/12, , DELL 21.5 INCH P2212 LCD MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5715
+	Dept/Room Location = ADMIN/112
+
+6303, ADMIN/112K-SYEH6, , DELL P2217H MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 6303
+	Dept/Room Location = ADMIN/112K
+
+6312, ADMIN/112K-SYEH6, MACBOOK-PRO-C02STAK0HF1P, (STAFF) MACBOOK PRO 13"
+MACBOOK-PRO-C02STAK0HF1P
+	Category = Computer - Laptop
+	Model Name = Apple Macbook Pro ???
+	Manufacturer = Apple
+	Asset Tag = 6312
+	Dept/Room Location = ADMIN/112K
+
+6383, ADMIN/112C-MONICAG, MACBOOK-PRO-C02TH0DYHF1P, MACBOOK PRO
+MACBOOK-PRO-C02TH0DYHF1P
+	Category = Computer - Laptop
+	Model Name = Apple Macbook Pro ???
+	Manufacturer = Apple
+	Asset Tag = 6383
+	Dept/Room Location = ADMIN/112C
+
+Exporting...
+2018-07-05_10-35-51.xlsx saved.
+SOURCE=Z:\Backup\Database\Access\UH Library Inventory.accdb
+LOCATION LIKE "admin", PRODUCT_NUM LIKE "-1"
+48 record(s) found.
+Opening file...

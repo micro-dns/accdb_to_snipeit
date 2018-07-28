@@ -1,0 +1,200 @@
+1005, FISCAL/DISPOSED-???, DANYL-VENDAMAT-05478, DANYL VENDAMAT DEBIT CARD READER
+DANYL-VENDAMAT-05478
+	Category = 
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 1005
+	Dept/Room Location = FISCAL/DISPOSED
+
+2718, FISCAL/123-COIN-OP-LAPTOP-???, BP-ZIP-RRCL44A3AU, EXTERNAL PARALLEL ZIP DRIVE
+BP-ZIP-RRCL44A3AU
+	Category = 
+	Model Name = 
+	Manufacturer = 
+	Asset Tag = 2718
+	Dept/Room Location = FISCAL/123
+
+3351, FISCAL/123-FISCAL1, , DELL 17 INCH E177FPb FLAT PANEL, ANALOG
+	Category = 
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 3351
+	Dept/Room Location = FISCAL/123
+
+6409, FISCAL/123-FISCAL, PRT-XEROX-WORKCENTRE-7845-MX4343024, XEROX WORKCENTRE 7845 MONOCHROME ALL-IN-ONE PRINTER, COPIER, SCANNER, FAX
+PRT-XEROX-WORKCENTRE-7845-MX4343024
+	Category = Printer - LaserJet - ???
+	Model Name = Xerox WorkCentre ???
+	Manufacturer = Xerox
+	Asset Tag = 6409
+	Dept/Room Location = FISCAL/123
+
+3775, FISCAL/123-NEXT TO COPIER-???, UPS-APC-1000VA-JB0430016465, APC BACK-UPS XS 1000
+UPS-APC-1000VA-JB0430016465
+	Category = Power - UPS
+	Model Name = 
+	Manufacturer = APC by Schneider Electric
+	Asset Tag = 3775
+	Dept/Room Location = FISCAL/123
+
+4075, FISCAL/123-PRINTER-???, UPS-APC-BKN350-BB0327028191, 
+UPS-APC-BKN350-BB0327028191
+	Category = Power - UPS
+	Model Name = 
+	Manufacturer = APC by Schneider Electric
+	Asset Tag = 4075
+	Dept/Room Location = FISCAL/123
+
+5222, FISCAL/123-FISCAL1, PC-CORE2DUO 3.0GHZ-VOSTRO-1CT4CK1, (STAFF) DELL VOSTRO 220 INTEL CORE 2 DUO 3.0GHZ 160GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Vostro 220
+	Manufacturer = Dell
+	Asset Tag = 5222
+	Dept/Room Location = FISCAL/123
+
+4804, FISCAL/123-NGOYA, , DELL 22 INCH E228WFPf FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4804
+	Dept/Room Location = FISCAL/123
+
+4826, FISCAL/123-FISCAL1-???, , DELL 17 INCH E178WFP FLAT PANEL MONITOR
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 4826
+	Dept/Room Location = FISCAL/123
+
+5268, FISCAL/123, PRT-HP-LJ4015N-CNDY446463, HP LASERJET P4015N
+PRT-HP-LJ4015N-CNDY446463
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5268
+	Dept/Room Location = FISCAL/123
+
+5382, FISCAL/123-STUDENT02, , DELL 18.5-INCH E1910Hc LCD WIDESCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5382
+	Dept/Room Location = FISCAL/123
+
+5384, FISCAL/123-CWWONG, , DELL 18.5-INCH E1910Hc LCD WIDESCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5384
+	Dept/Room Location = FISCAL/123
+
+5401, FISCAL/123-STUDENT01, , DELL 18.5-INCH E1910Hc LCD WIDESCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5401
+	Dept/Room Location = FISCAL/123
+
+5496, FISCAL/123, PRT-HP-LJ4015DN-JPDF267143, HP LASERJET P4015DN WITH DUPLEX
+PRT-HP-LJ4015DN-JPDF267143
+	Category = Printer - LaserJet - ???
+	Model Name = HP ???
+	Manufacturer = Hewlett Packard
+	Asset Tag = 5496
+	Dept/Room Location = FISCAL/123
+
+5575, ADMIN/112-FISCAL, PRT-XEROX-WORKCENTRE-3210-UAG556658, XEROX WORKCENTRE 3210 MONOCHROME ALL-IN-ONE PRINTER, COPIER, SCANNER, FAX
+PRT-XEROX-WORKCENTRE-3210-UAG556658
+	Category = Printer - LaserJet - ???
+	Model Name = Xerox WorkCentre ???
+	Manufacturer = Xerox
+	Asset Tag = 5575
+	Dept/Room Location = ADMIN/112
+
+5625, FISCAL/123-NGOYA, PC-CORE I5 3.1GHZ-OPTIPLEX 990-BDQ0WR1, (STAFF) DELL OPTIPLEX 990 CORE-I5 3.10 GHZ 4GB RAM 320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex 990
+	Manufacturer = Dell
+	Asset Tag = 5625
+	Dept/Room Location = FISCAL/123
+
+5632, FISCAL/123-STUDENT02, PC-CORE I5 3.1GHZ-OPTIPLEX 990-BDNXVR1, (STAFF) DELL OPTIPLEX 990 CORE-I5 3.10 GHZ 4GB RAM 320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex 990
+	Manufacturer = Dell
+	Asset Tag = 5632
+	Dept/Room Location = FISCAL/123
+
+5634, FISCAL/123-CWWONG, PC-CORE I5 3.1GHZ-OPTIPLEX 990-BDN0WR1, (STAFF) DELL OPTIPLEX 990 CORE-I5 3.10 GHZ 4GB RAM 320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex 990
+	Manufacturer = Dell
+	Asset Tag = 5634
+	Dept/Room Location = FISCAL/123
+
+5635, FISCAL/123-STUDENT01, PC-CORE I5 3.1GHZ-OPTIPLEX 990-BDP0WR1, (STAFF) DELL OPTIPLEX 990 CORE-I5 3.10 GHZ 4GB RAM 320GB HDD, WIN7
+	Category = Computer - Desktop
+	Model Name = Dell Optiplex 990
+	Manufacturer = Dell
+	Asset Tag = 5635
+	Dept/Room Location = FISCAL/123
+
+5652, FISCAL/123-CWWONG, , DELL 22 INCH P2211Ht LCD WIDE SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5652
+	Dept/Room Location = FISCAL/123
+
+5654, FISCAL/123-NGOYA, , DELL 22 INCH P2211Ht LCD WIDE SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5654
+	Dept/Room Location = FISCAL/123
+
+5656, FISCAL/123-STUDENT02, , DELL 22 INCH P2211Ht LCD WIDE SCREEN
+	Category = Display - Monitor
+	Model Name = Dell ???
+	Manufacturer = Dell
+	Asset Tag = 5656
+	Dept/Room Location = FISCAL/123
+
+5911, FISCAL/123-NGOYA, SCAN-FUJITSU-IX500-A0VB048771, FUJITSU SCAN SNAP IX500 SCANNER
+SCAN-FUJITSU-IX500-A0VB048771
+	Category = Scanner - ADF
+	Model Name = Fujitsu Scan Snap iX500
+	Manufacturer = Fujitsu
+	Asset Tag = 5911
+	Dept/Room Location = FISCAL/123
+
+5912, FISCAL/123-STUDENT01, SCAN-FUJITSU-IX500-A0VB050431, FUJITSU SCAN SNAP IX500 SCANNER
+SCAN-FUJITSU-IX500-A0VB050431
+	Category = Scanner - ADF
+	Model Name = Fujitsu Scan Snap iX500
+	Manufacturer = Fujitsu
+	Asset Tag = 5912
+	Dept/Room Location = FISCAL/123
+
+5913, FISCAL/123-STUDENT02, SCAN-FUJITSU-IX500-A0VB050310, FUJITSU SCAN SNAP IX500 SCANNER
+SCAN-FUJITSU-IX500-A0VB050310
+	Category = Scanner - ADF
+	Model Name = Fujitsu Scan Snap iX500
+	Manufacturer = Fujitsu
+	Asset Tag = 5913
+	Dept/Room Location = FISCAL/123
+
+5914, FISCAL/123-CWWONG, SCAN-FUJITSU-IX500-A0VB049958, FUJITSU SCAN SNAP IX500 SCANNER
+SCAN-FUJITSU-IX500-A0VB049958
+	Category = Scanner - ADF
+	Model Name = Fujitsu Scan Snap iX500
+	Manufacturer = Fujitsu
+	Asset Tag = 5914
+	Dept/Room Location = FISCAL/123
+
+Exporting...
+2018-07-05_12-45-24.xlsx saved.
+SOURCE=Z:\Backup\Database\Access\UH Library Inventory.accdb
+LOCATION LIKE "fiscal", PRODUCT_NUM LIKE "-1"
+26 record(s) found.
+Opening file...
